@@ -535,7 +535,7 @@ If missing:
 
 # MIT License
 
-Copyright (c) 2026 DI-HYDRO
+Copyright (c) 2026 Accent Pro 2000 S.R.L.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
