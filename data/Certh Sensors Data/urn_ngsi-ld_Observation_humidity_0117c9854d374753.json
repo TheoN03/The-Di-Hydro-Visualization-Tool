@@ -1,8 +1,0 @@
-{
-    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': '%RH'}}",
-    "measurement_timerelsystem_CreatedAt": "['2026-05-29 09:03:28.044909']",
-    "measurement_timerelsystem_modifiedAt": "['2026-05-29 09:03:28.044909']",
-    "measurementType": "{'type': 'Property', 'value': 'physical'}",
-    "measurementType_timerelsystem_CreatedAt": "['2026-05-29 09:03:28.044909']",
-    "measurementType_timerelsystem_modifiedAt": "['2026-05-29 09:03:28.044909']"
-}
