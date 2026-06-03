@@ -8,4 +8,4 @@ For login credentials, please check the README.md file in the main folder.
 
 NOTICE! The Web Dashboard with Analytics runs permanently on Github. The user needs to access the link and enter credentials to run the dashboard without any installation.
 
-For more detailed information, check the README.md files and the "Visualization Tool USER MANUAL.docx" file, inside the main folder.
+For more detailed information, check the README.md files and the "Visualization Tool USER MANUAL.pdf" file, inside the main folder.
