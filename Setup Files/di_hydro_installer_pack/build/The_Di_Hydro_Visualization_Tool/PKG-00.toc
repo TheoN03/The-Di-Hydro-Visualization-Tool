@@ -1,0 +1,77 @@
+('D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+ 'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\The '
+ 'Di-Hydro Visualization Tool.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\build\\The_Di_Hydro_Visualization_Tool\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\.venv_build\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('app',
+   'D:\\TheoN\\The Di-Hydro Visualization Tool\\Setup '
+   'Files\\di_hydro_installer_pack_fixed\\app.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

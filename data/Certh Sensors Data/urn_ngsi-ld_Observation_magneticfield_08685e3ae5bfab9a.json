@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Magnetometer X'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-28 20:05:50.886946']",
+    "name_timerelsystem_modifiedAt": "['2026-05-28 20:05:50.886946']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:05:42'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-28 20:05:50.886946']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-28 20:05:50.886946']",
+    "measurement": "{'type': 'Property', 'value': -39.0, 'measurementUnit': {'type': 'Property', 'value': 'uT'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-28 20:05:50.887943']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-28 20:05:50.887943']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-28 20:05:50.887943']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-28 20:05:50.887943']",
+    "category": "{'type': 'Property', 'value': 'magneticField'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-28 20:05:50.887943']",
+    "category_timerelsystem_modifiedAt": "['2026-05-28 20:05:50.887943']"
+}

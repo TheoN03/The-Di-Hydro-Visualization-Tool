@@ -1,0 +1,12 @@
+tkinter
+pandas
+numpy
+matplotlib
+matplotlib.pyplot
+cv2
+openpyxl
+opencv-python
+matplotlib.backends.backend_tkagg
+pillow
+dash-bootstrap-components
+pyinstaller

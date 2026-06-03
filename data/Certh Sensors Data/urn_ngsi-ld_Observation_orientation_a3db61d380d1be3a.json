@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Roll'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-28 11:05:51.354200']",
+    "name_timerelsystem_modifiedAt": "['2026-05-28 11:05:51.354200']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:10:26'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-28 11:05:51.355200']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-28 11:05:51.355200']",
+    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': 'deg'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-28 11:05:51.355200']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-28 11:05:51.355200']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-28 11:05:51.356200']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-28 11:05:51.356200']",
+    "category": "{'type': 'Property', 'value': 'orientation'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-28 11:05:51.356200']",
+    "category_timerelsystem_modifiedAt": "['2026-05-28 11:05:51.356200']"
+}

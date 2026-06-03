@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Temperature'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-29 05:53:52.252018']",
+    "name_timerelsystem_modifiedAt": "['2026-05-29 05:53:52.252018']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:06:31'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-29 05:53:52.252980']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-29 05:53:52.252980']",
+    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': 'degC'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-29 05:53:52.252980']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-29 05:53:52.252980']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-29 05:53:52.253966']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-29 05:53:52.253966']",
+    "category": "{'type': 'Property', 'value': 'temperature'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-29 05:53:52.253966']",
+    "category_timerelsystem_modifiedAt": "['2026-05-29 05:53:52.253966']"
+}

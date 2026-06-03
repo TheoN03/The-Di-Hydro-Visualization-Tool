@@ -1,0 +1,11 @@
+{
+    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': 'degC'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-29 05:49:43.919615']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-29 05:49:43.919615']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-29 05:49:43.920615']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-29 05:49:43.920615']",
+    "category": "{'type': 'Property', 'value': 'temperature'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-29 05:49:43.920615']",
+    "category_timerelsystem_modifiedAt": "['2026-05-29 05:49:43.920615']"
+}

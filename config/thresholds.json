@@ -1,0 +1,113 @@
+{
+  "01MKA10CE104": {
+    "pre": 43.0,
+    "alert": 44.0
+  },
+  "01MEU50FG": {
+    "pre": 52.0,
+    "alert": 53.0
+  },
+  "01MKA10CE105": {
+    "pre": 3.0,
+    "alert": 5.0
+  },
+  "01MKA10CE106": {
+    "pre": 16.5,
+    "alert": 17.0
+  },
+  "01MKA51CT523T": {
+    "pre": 25.0,
+    "alert": 27.0
+  },
+  "01MKA53EX001_XQ01": {
+    "pre": 128.0,
+    "alert": 130.0
+  },
+  "01MKA53EX001_XQ02": {
+    "pre": 760.0,
+    "alert": 765.0
+  },
+  "01MKA51CT525T": {
+    "alert": 20.0,
+    "pre": 19.0
+  },
+  "01MKC50CT066XQ01": {
+    "pre": 35.0,
+    "alert": 37.0
+  },
+  "01MKA31CT436T": {
+    "pre": 53.0,
+    "alert": 54.0
+  },
+  "01MKA31CT453T": {
+    "pre": 36.0,
+    "alert": 37.0
+  },
+  "01MKA35CT430T": {
+    "pre": 37.0,
+    "alert": 38.0
+  },
+  "01MKA52CF026T": {
+    "alert": 122.0,
+    "pre": 120.0
+  },
+  "01MKA52CT450T": {
+    "alert": 25.0
+  },
+  "01MKA35CT426T": {
+    "alert": 42.0
+  },
+  "01MKA52CT448T": {
+    "pre": 36.5,
+    "alert": 37.0
+  },
+  "01MKC10CE003XQ60": {
+    "pre": 39.0,
+    "alert": 40.0
+  },
+  "01MEA48CT551T": {
+    "pre": 47.0,
+    "alert": 48.0
+  },
+  "01BAT10GH001_XQ01": {
+    "alert": 41.0,
+    "pre": 40.0
+  },
+  "01MEA48CT554T": {
+    "pre": 1.0,
+    "alert": 2.0
+  },
+  "01MKA54CT402T": {
+    "alert": 49.0
+  },
+  "01BAT10GH001_XQ12": {
+    "alert": 24.0
+  },
+  "01BAT10GH001_XQ11": {
+    "alert": 24.0
+  },
+  "01MEA51CF502T": {
+    "pre": 1.0,
+    "alert": 2.0
+  },
+  "01MEU52CF505T": {
+    "pre": 1.0,
+    "alert": 2.0
+  },
+  "01MEA11CP571T": {
+    "pre": 8.0,
+    "alert": 9.0
+  },
+  "01MEA11CP971T": {
+    "pre": 44.0,
+    "alert": 46.0
+  },
+  "01MEU10OR1": {
+    "pre": 75.0,
+    "alert": 80.0
+  },
+  "01MEA51CP501T": {
+    "pre": 70.0,
+    "alert": 72.0
+  }
+}

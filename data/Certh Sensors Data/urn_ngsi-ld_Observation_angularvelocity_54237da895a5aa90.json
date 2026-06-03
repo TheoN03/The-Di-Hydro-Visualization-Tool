@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Gyroscope X'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-28 18:09:48.096368']",
+    "name_timerelsystem_modifiedAt": "['2026-05-28 18:09:48.096368']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:13:52'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-28 18:09:48.097396']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-28 18:09:48.097396']",
+    "measurement": "{'type': 'Property', 'value': -245.0, 'measurementUnit': {'type': 'Property', 'value': 'raw_count'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-28 18:09:48.097396']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-28 18:09:48.097396']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-28 18:09:48.097396']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-28 18:09:48.097396']",
+    "category": "{'type': 'Property', 'value': 'angularVelocity'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-28 18:09:48.098366']",
+    "category_timerelsystem_modifiedAt": "['2026-05-28 18:09:48.098366']"
+}

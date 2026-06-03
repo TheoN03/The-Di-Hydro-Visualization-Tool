@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Analog Input 0'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-28 23:53:47.261771']",
+    "name_timerelsystem_modifiedAt": "['2026-05-28 23:53:47.261771']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:07:31'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-28 23:53:47.262737']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-28 23:53:47.262737']",
+    "measurement": "{'type': 'Property', 'value': 120.375, 'measurementUnit': {'type': 'Property', 'value': 'mV'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-28 23:53:47.262737']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-28 23:53:47.262737']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-28 23:53:47.262737']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-28 23:53:47.262737']",
+    "category": "{'type': 'Property', 'value': 'analogVoltage'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-28 23:53:47.262737']",
+    "category_timerelsystem_modifiedAt": "['2026-05-28 23:53:47.262737']"
+}

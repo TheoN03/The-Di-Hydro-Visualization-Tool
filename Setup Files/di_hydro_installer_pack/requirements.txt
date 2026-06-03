@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+opencv-python
+Pillow
+openpyxl
+pyinstaller

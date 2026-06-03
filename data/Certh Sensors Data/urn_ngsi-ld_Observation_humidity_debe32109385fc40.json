@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'SHT Humidity'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-29 09:09:35.961697']",
+    "name_timerelsystem_modifiedAt": "['2026-05-29 09:09:35.961697']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:09:38'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-29 09:09:35.962697']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-29 09:09:35.962697']",
+    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': '%RH'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-29 09:09:35.962697']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-29 09:09:35.962697']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-29 09:09:35.962697']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-29 09:09:35.962697']",
+    "category": "{'type': 'Property', 'value': 'humidity'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-29 09:09:35.963705']",
+    "category_timerelsystem_modifiedAt": "['2026-05-29 09:09:35.963705']"
+}

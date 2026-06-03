@@ -1,0 +1,24 @@
+{
+    "id": "urn:ngsi-ld:Observation:obs-181289034101-987210702318",
+    "type": "https://raw.githubusercontent.com/satrai-lab/di-hydro-data-models/main/dynamic/DataModel.HydroPowerPlant/Observation/DataModel/type.json#Observation",
+    "name": {
+        "type": "Property",
+        "value": "output power"
+    },
+    "dateModified": {
+        "type": "Property",
+        "value": "9.0025"
+    },
+    "measurement": {
+        "type": "Property",
+        "value": 71833494.3713064,
+        "measurementUnit": {
+            "type": "Property",
+            "value": "N/A"
+        }
+    },
+    "@context": [
+        "https://raw.githubusercontent.com/satrai-lab/di-hydro-data-models/refs/heads/main/dynamic/context.json",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+}

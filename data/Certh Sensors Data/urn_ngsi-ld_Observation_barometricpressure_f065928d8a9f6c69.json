@@ -1,0 +1,15 @@
+{
+    "name": "{'type': 'Property', 'value': 'Pressure'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-29 05:39:56.480969']",
+    "name_timerelsystem_modifiedAt": "['2026-05-29 05:39:56.480969']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:13:48'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-29 05:39:56.481979']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-29 05:39:56.481979']",
+    "measurement": "{'type': 'Property', 'value': 0.0, 'measurementUnit': {'type': 'Property', 'value': 'hPa'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-29 05:39:56.481979']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-29 05:39:56.481979']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-29 05:39:56.481979']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-29 05:39:56.481979']",
+    "category": "{'type': 'Property', 'value': 'barometricPressure'}"
+}

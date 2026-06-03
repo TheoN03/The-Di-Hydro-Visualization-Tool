@@ -1,0 +1,17 @@
+{
+    "name": "{'type': 'Property', 'value': 'Acceleration X'}",
+    "name_timerelsystem_CreatedAt": "['2026-05-28 14:30:11.462675']",
+    "name_timerelsystem_modifiedAt": "['2026-05-28 14:30:11.462675']",
+    "dateModified": "{'type': 'Property', 'value': '2026-02-07T05:11:44'}",
+    "dateModified_timerelsystem_CreatedAt": "['2026-05-28 14:30:11.462675']",
+    "dateModified_timerelsystem_modifiedAt": "['2026-05-28 14:30:11.462675']",
+    "measurement": "{'type': 'Property', 'value': 15.0, 'measurementUnit': {'type': 'Property', 'value': 'raw_count'}}",
+    "measurement_timerelsystem_CreatedAt": "['2026-05-28 14:30:11.462675']",
+    "measurement_timerelsystem_modifiedAt": "['2026-05-28 14:30:11.462675']",
+    "measurementType": "{'type': 'Property', 'value': 'physical'}",
+    "measurementType_timerelsystem_CreatedAt": "['2026-05-28 14:30:11.463675']",
+    "measurementType_timerelsystem_modifiedAt": "['2026-05-28 14:30:11.463675']",
+    "category": "{'type': 'Property', 'value': 'acceleration'}",
+    "category_timerelsystem_CreatedAt": "['2026-05-28 14:30:11.463675']",
+    "category_timerelsystem_modifiedAt": "['2026-05-28 14:30:11.463675']"
+}
